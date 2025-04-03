@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Catherwa
-- 👀 I’m interested in data and how it can be leveraged to answer business questions
+- 👀 I’m interested in data, AI, and how it can be leveraged to answer business questions
 - 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on Data Analysis and Data Science projects
 - 😄 Pronouns: She/Her
